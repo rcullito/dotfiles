@@ -9,6 +9,7 @@
 
 ;; ----- ido-work-directory-list -----
 (
+ #("/Users/rculliton/zillion/member-portal/conf/" 39 44 (face flx-highlight-face))
  "/Users/rculliton/zillion/webrtc-sdk/vidyo/"
  "/Users/rculliton/zillion/webrtc-sdk/vidyo/sdk/javascript/"
  "/Users/rculliton/zillion/webrtc-sdk/"
@@ -16,6 +17,7 @@
 
 ;; ----- ido-work-file-list -----
 (
+ #("application.conf" 0 2 (face flx-highlight-face))
  "vidyo.js"
  "vidyo-sdk-4-1-8-1.js"
  "Gruntfile.js"
@@ -23,6 +25,10 @@
 
 ;; ----- ido-dir-file-cache -----
 (
+ (#("/Users/rculliton/zillion/member-portal/conf/" 39 44 (face flx-highlight-face)) (22738 41087 0 0) "routes" "prod.conf" "generated.keystore" "env.conf" "application.conf" "../" "./")
+
+ ("/Users/rculliton/zillion/member-portal/" (22725 45170 0 0) "target/" "README.md" "public/" "project/" "prod_tasks.sh" "package.json" "logs/" "LICENSE" "conf/" "build.sbt" "app/" "activator.bat" "activator-launch-1.3.2.jar" "activator" ".sass-cache/" ".gitignore" ".git/" ".eslintrc.js" "../" "./")
+
  ("/Users/rculliton/zillion/webrtc-sdk/vidyo/sdk/javascript/" (22735 7350 0 0) "VidyoClient/" "vidyo-sdk-4-1-8-1.js" "es6-promise/" ".DS_Store" "../" "./")
 
  ("/Users/rculliton/zillion/webrtc-sdk/vidyo/sdk/" (22723 64490 0 0) "javascript/" "../" "./")

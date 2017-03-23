@@ -1,1 +1,1 @@
-("~/zillion/webrtc-sdk/" "~/zillion/provider-portal/")
+("~/dotfiles/" "~/zillion/member-portal/" "~/zillion/webrtc-sdk/" "~/zillion/provider-portal/")
