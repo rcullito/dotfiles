@@ -1,0 +1,40 @@
+;;; -*- coding: utf-8 -*-
+
+;; ----- ido-last-directory-list -----
+(
+ ("/Users/rculliton/zillion/webrtc-sdk/vidyo/sdk/" . "javascript/")
+ ("/Users/rculliton/zillion/webrtc-sdk/" . "vidyo/")
+ ("/Users/rculliton/zillion/" . "webrtc-sdk/")
+)
+
+;; ----- ido-work-directory-list -----
+(
+ "/Users/rculliton/zillion/webrtc-sdk/vidyo/"
+ "/Users/rculliton/zillion/webrtc-sdk/vidyo/sdk/javascript/"
+ "/Users/rculliton/zillion/webrtc-sdk/"
+)
+
+;; ----- ido-work-file-list -----
+(
+ "vidyo.js"
+ "vidyo-sdk-4-1-8-1.js"
+ "Gruntfile.js"
+)
+
+;; ----- ido-dir-file-cache -----
+(
+ ("/Users/rculliton/zillion/webrtc-sdk/vidyo/sdk/javascript/" (22735 7350 0 0) "VidyoClient/" "vidyo-sdk-4-1-8-1.js" "es6-promise/" ".DS_Store" "../" "./")
+
+ ("/Users/rculliton/zillion/webrtc-sdk/vidyo/sdk/" (22723 64490 0 0) "javascript/" "../" "./")
+
+ ("/Users/rculliton/" (22740 9173 0 0) "zillion/" "weekendswap/" "VirtualBox VMs/" "understand/" "quartetChallenge/" "quartet/" "Public/" "Pictures/" "pgadmin.log" "Music/" "Movies/" "Library/" "gibberish/" "gen9/" "foo~" "foo" "dump.rdb" "Downloads/" "Documents/" "Desktop/" "AT.postflight.1240" "Applications/" ".zshrc" ".zsh_history" ".zsh-update" ".zcompdump-Zillion’s MacBook Pro-5.2" ".zcompdump-Zillion’s MacBook Pro-5.0.8" ".wget-hsts" ".viminfo" ".vagrant.d/" ".v8flags.5.4.500.48.rculliton.json" ".v8flags.5.0.71.35.rculliton.json" ".v8flags.4.5.103.35.rculliton.json" ".Trash/" ".subversion/" ".ssh/" ".scala_history" ".sbt/" ".rnd" ".rediscli_history" ".pgpass" ".pgadmin_histoqueries" ".oracle_jre_usage/" ".openvpn-connect.json" ".oh-my-zsh/" ".npmrc" ".npm/" ".node_repl_history" ".node-gyp/" ".ngrok2/" ".netrc" ".m2/" ".local/" ".lesshst" ".lein/" ".java_history" ".ivy2/" ".heroku/" ".gnupg/" ".gitconfig" ".gem/" ".emacs~" ".emacs.d/" ".emacs" ".DS_Store" ".cups/" ".config/" ".cider-repl-history" ".CFUserTextEncoding" ".cache/" ".boot/" ".bash_sessions/" ".bash_history" ".babel.json" ".atom/" ".activator/" "../" "./")
+
+ ("/Users/rculliton/zillion/" (22733 32453 0 0) "zillion-live-system-test/" "zillion-live-admin/" "zillion-conference/" "webrtc-sdk/" "VidyoClient-WebSDK-8.1/" "VidyoClient-WebSDK-7.1/" "VidyoClient-WebSDK/" "vidyo/" "unified/" "trackerChart/" "provider-portal/" "prometheus/" "oldVidyo/" "ngrok" "member-portal-ra/" "member-portal/" "march/" "huddle/" "flow/" ".DS_Store" "../" "./")
+
+ ("/Users/rculliton/zillion/webrtc-sdk/vidyo/" (22739 56247 0 0) "vidyo.js" "sdk/" "../" "./")
+
+ ("/Users/rculliton/zillion/webrtc-sdk/" (22727 1791 0 0) "zillionlive/" "vidyo/" "README.md" "package.json" "node_modules/" "gulpfile.js" "Gruntfile.js" "extensions/" "doc/" "addlive/" ".gitignore" ".git/" "../" "./")
+)
+
+;; ----- ido-unc-hosts-cache -----
+t
