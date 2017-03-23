@@ -19,7 +19,7 @@
  ;; If there is more than one, they won't work right.
  '(package-selected-packages
    (quote
-    (helm flx-ido projectile multiple-cursors smooth-scrolling smooth-scroll find-file-in-project zenburn-theme which-key cider))))
+    (helm flx-ido projectile multiple-cursors smooth-scrolling smooth-scroll zenburn-theme which-key cider))))
 (custom-set-faces
  ;; custom-set-faces was added by Custom.
  ;; If you edit it by hand, you could mess it up, so be careful.
@@ -42,4 +42,3 @@
 ;; disable ido faces to see flx highlights.
 (setq ido-enable-flex-matching t)
 (setq ido-use-faces nil)
-
